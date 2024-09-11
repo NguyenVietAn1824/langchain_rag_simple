@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface-hub
+langchain
+langchain-core
+langchain-community
+pypdf
+sentence-transformers
+beautifulsoup4
+langserve[all]
+faiss-cpu
+rapidocr-onnxruntime
+unstructured
+fastapi
+uvicorn
